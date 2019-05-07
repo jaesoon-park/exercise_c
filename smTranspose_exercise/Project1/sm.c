@@ -37,4 +37,18 @@ int main() {
 
 int compare(room a, room b) {//  두 구조체 값 같은지 비교 
 
+	
+	switch (compare)
+	{
+	case 0:
+		printf("구조체값이 같음");
+		break;
+	case 1:
+		printf("%d보다 %d가 큼", b, a);
+		break;
+	case -1:
+		printf("%d보다 %d가 큼", a, b);
+		break;
+	}
+
 }
