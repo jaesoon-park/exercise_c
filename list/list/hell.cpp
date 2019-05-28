@@ -21,7 +21,7 @@ int main()
 	node1 = (Node*)malloc(sizeof(Node));
 	if (node1 == NULL) {
 		printf("malloc()error\n");
-		exit(1);//탈출
+		exit(1);//값을 리턴시켜서 초기화 
 	}
 	node2 = (Node*)malloc(sizeof(Node));
 	if (node2 == NULL) {

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exercise_Stcak", "exercise_Stcak\exercise_Stcak.vcxproj", "{D85330D2-ABE5-4E80-9BF6-49D1D2009271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D85330D2-ABE5-4E80-9BF6-49D1D2009271}.Debug|x64.ActiveCfg = Debug|x64
+		{D85330D2-ABE5-4E80-9BF6-49D1D2009271}.Debug|x64.Build.0 = Debug|x64
+		{D85330D2-ABE5-4E80-9BF6-49D1D2009271}.Debug|x86.ActiveCfg = Debug|Win32
+		{D85330D2-ABE5-4E80-9BF6-49D1D2009271}.Debug|x86.Build.0 = Debug|Win32
+		{D85330D2-ABE5-4E80-9BF6-49D1D2009271}.Release|x64.ActiveCfg = Release|x64
+		{D85330D2-ABE5-4E80-9BF6-49D1D2009271}.Release|x64.Build.0 = Release|x64
+		{D85330D2-ABE5-4E80-9BF6-49D1D2009271}.Release|x86.ActiveCfg = Release|Win32
+		{D85330D2-ABE5-4E80-9BF6-49D1D2009271}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAB50A3A-C6EC-4CBC-88FC-124FDD26C696}
+	EndGlobalSection
+EndGlobal
